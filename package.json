@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-styled-jsx-sass",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "node-sass": "^4.13.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-toastify": "5.4.1",
+    "sass-loader": "^8.0.0",
+    "styled-jsx": "^3.2.4",
+    "styled-jsx-plugin-sass": "^1.0.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
